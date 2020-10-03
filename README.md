@@ -6,7 +6,15 @@ AI can detect emotions by learning what each facial expression means and applyin
 
 -  Keep Learning
 
-## Dataset link-https://drive.google.com/drive/folders/1E66iZdNz021aUZGsZjtc3EUu3NqAaIq3?usp=sharing
+## Dataset link-
+
+https://drive.google.com/drive/folders/1E66iZdNz021aUZGsZjtc3EUu3NqAaIq3?usp=sharing
+
+## Run
+```
+  Copy the Program in jupyter notebook
+  And Run the program.
+```
 
 ## Output
 
